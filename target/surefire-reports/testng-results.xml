@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="162914" started-at="2019-09-10T11:33:08Z" finished-at="2019-09-10T11:35:51Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="162914" started-at="2019-09-10T11:33:08Z" finished-at="2019-09-10T11:35:51Z">
+      <class name="carwale.qa.testcases.HomePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:carwale.qa.testcases.HomePageTest@6bf256fa]" name="setup" is-config="true" duration-ms="15144" started-at="2019-09-10T17:04:26Z" finished-at="2019-09-10T17:04:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="homePageTitleTest()[pri:1, instance:carwale.qa.testcases.HomePageTest@6bf256fa]" name="homePageTitleTest" duration-ms="20" started-at="2019-09-10T17:04:42Z" finished-at="2019-09-10T17:04:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:carwale.qa.testcases.HomePageTest@6bf256fa]" name="tearDown" is-config="true" duration-ms="1053" started-at="2019-09-10T17:04:42Z" finished-at="2019-09-10T17:04:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:carwale.qa.testcases.HomePageTest@6bf256fa]" name="setup" is-config="true" duration-ms="15101" started-at="2019-09-10T17:04:43Z" finished-at="2019-09-10T17:04:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="clickOnNewCarsLinkTest()[pri:2, instance:carwale.qa.testcases.HomePageTest@6bf256fa]" name="clickOnNewCarsLinkTest" duration-ms="5981" started-at="2019-09-10T17:04:58Z" finished-at="2019-09-10T17:05:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnNewCarsLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:carwale.qa.testcases.HomePageTest@6bf256fa]" name="tearDown" is-config="true" duration-ms="1042" started-at="2019-09-10T17:05:04Z" finished-at="2019-09-10T17:05:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:carwale.qa.testcases.HomePageTest@6bf256fa]" name="setup" is-config="true" duration-ms="16289" started-at="2019-09-10T17:05:05Z" finished-at="2019-09-10T17:05:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validateSearchBoxTest()[pri:3, instance:carwale.qa.testcases.HomePageTest@6bf256fa]" name="validateSearchBoxTest" duration-ms="10739" started-at="2019-09-10T17:05:21Z" finished-at="2019-09-10T17:05:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSearchBoxTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:carwale.qa.testcases.HomePageTest@6bf256fa]" name="tearDown" is-config="true" duration-ms="936" started-at="2019-09-10T17:05:32Z" finished-at="2019-09-10T17:05:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:carwale.qa.testcases.HomePageTest@6bf256fa]" name="setup" is-config="true" duration-ms="16895" started-at="2019-09-10T17:05:33Z" finished-at="2019-09-10T17:05:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="openSignUpPage()[pri:4, instance:carwale.qa.testcases.HomePageTest@6bf256fa]" name="openSignUpPage" duration-ms="376" started-at="2019-09-10T17:05:50Z" finished-at="2019-09-10T17:05:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openSignUpPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:carwale.qa.testcases.HomePageTest@6bf256fa]" name="tearDown" is-config="true" duration-ms="910" started-at="2019-09-10T17:05:50Z" finished-at="2019-09-10T17:05:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- carwale.qa.testcases.HomePageTest -->
+      <class name="carwale.qa.testcases.SignUpPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:carwale.qa.testcases.SignUpPageTest@22f71333]" name="setUp" is-config="true" duration-ms="14366" started-at="2019-09-10T17:03:35Z" finished-at="2019-09-10T17:03:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateCreateNewSignUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:carwale.qa.testcases.SignUpPageTest@22f71333]" name="validateCreateNewSignUp" duration-ms="1803" started-at="2019-09-10T17:03:49Z" data-provider="getSignUpTestData" finished-at="2019-09-10T17:03:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rahul]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Rahul@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9.999988888E9]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Rahul@123]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Rahul@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCreateNewSignUp -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:carwale.qa.testcases.SignUpPageTest@22f71333]" name="tearDown" is-config="true" duration-ms="1001" started-at="2019-09-10T17:03:51Z" finished-at="2019-09-10T17:03:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:carwale.qa.testcases.SignUpPageTest@22f71333]" name="setUp" is-config="true" duration-ms="13744" started-at="2019-09-10T17:03:52Z" finished-at="2019-09-10T17:04:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateCreateNewSignUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:carwale.qa.testcases.SignUpPageTest@22f71333]" name="validateCreateNewSignUp" duration-ms="1774" started-at="2019-09-10T17:04:06Z" data-provider="getSignUpTestData" finished-at="2019-09-10T17:04:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Karan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Karan@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9.999978787E9]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Karan@123]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Karan@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCreateNewSignUp -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:carwale.qa.testcases.SignUpPageTest@22f71333]" name="tearDown" is-config="true" duration-ms="987" started-at="2019-09-10T17:04:07Z" finished-at="2019-09-10T17:04:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:carwale.qa.testcases.SignUpPageTest@22f71333]" name="setUp" is-config="true" duration-ms="15329" started-at="2019-09-10T17:04:08Z" finished-at="2019-09-10T17:04:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateCreateNewSignUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:carwale.qa.testcases.SignUpPageTest@22f71333]" name="validateCreateNewSignUp" duration-ms="1765" started-at="2019-09-10T17:04:24Z" data-provider="getSignUpTestData" finished-at="2019-09-10T17:04:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Vishal]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Vishal@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[8.888878787E9]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Vishal@123]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Vishal@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCreateNewSignUp -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:carwale.qa.testcases.SignUpPageTest@22f71333]" name="tearDown" is-config="true" duration-ms="974" started-at="2019-09-10T17:04:26Z" finished-at="2019-09-10T17:04:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- carwale.qa.testcases.SignUpPageTest -->
+      <class name="carwale.qa.testcases.NewCarsPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:carwale.qa.testcases.NewCarsPageTest@6cd8737]" name="setUp" is-config="true" duration-ms="24046" started-at="2019-09-10T17:03:08Z" finished-at="2019-09-10T17:03:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyNewCarsHeadingTest()[pri:0, instance:carwale.qa.testcases.NewCarsPageTest@6cd8737]" name="verifyNewCarsHeadingTest" duration-ms="138" started-at="2019-09-10T17:03:32Z" finished-at="2019-09-10T17:03:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNewCarsHeadingTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:carwale.qa.testcases.NewCarsPageTest@6cd8737]" name="tearDown" is-config="true" duration-ms="1016" started-at="2019-09-10T17:03:32Z" finished-at="2019-09-10T17:03:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- carwale.qa.testcases.NewCarsPageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
